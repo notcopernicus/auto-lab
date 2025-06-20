@@ -10,5 +10,10 @@ My beautiful bright red car is fully dead and it's time to pop open the hood.
 > 3. The battery tray
  
 > So I decided to take a further look and removed the battery. A prominent amount of green corrosion exposed itself, perhaps due to moisture, dirt and debris over the years. I created a baking soda and water solution to thoroughly clean and rinse all parts. The scorching July sun sped up the drying process.
+
+**Tools**
+- 10mm wrench
+- Wire brush
+
 > Looking forward, I plan to re-install all parts and jump start the battery. I also intend to create mini battery telemetry system via Raspberry Pi to explore the electricity factors at play (voltage, cells, temp)
 > 
