@@ -1,4 +1,4 @@
-# 2012 Ford Focus Log
+# 2012 Ford Focus
 
 My beautiful bright red car is fully dead and it's time to pop open the hood.
 
