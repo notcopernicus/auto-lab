@@ -17,3 +17,7 @@ So I decided to take a further look and removed the battery. A prominent amount 
 
 Looking forward, I plan to re-install all parts and jump start the battery. I also intend to create mini battery telemetry system via Raspberry Pi to explore the electricity factors at play (voltage, cells, temp)
 
+
+#### 08.02 – Further Thoughts
+
+The battery is indeed dead after further testing. More work needs to be done in terms of identifying what other parts of the car are also faulty.
