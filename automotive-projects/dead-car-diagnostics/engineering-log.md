@@ -21,3 +21,18 @@ Looking forward, I plan to re-install all parts and jump start the battery. I al
 #### 08.02 – Further Thoughts
 
 The battery is indeed dead after further testing. More work needs to be done in terms of identifying what other parts of the car are also faulty.
+
+#### 08.11 – New Insights
+
+Finally, after having a bit of free time, I was able to investigate further into the state of the car. The night that it broke down I noticed that it was leaking a lot of coolant. It is worth noting that the car also some coolant issues before hand. Thus I believe that it will need to undergo coolant testing.
+
+Today, instead of a pressurized coolant test I performed just a simple waterbed test and I was able to pinpoint the exact location of the leak. Minor, but mighty at the clamp, this will definetly need to be tigthened to prevent further leaks.
+
+I believe that it is the lower radiator hose that will need replacing. Additionally, the engine needs to undergo testing to ensure there arent any severe issues due to overheating (eg Blown Head Gasket, or 
+cracked block). Once the leak is repaired the temperature of the vehicle can be reviewed to commence the process of further work.
+
+To check the temperature I will need to jumps start the vehicle again since I concluded that the battery was fully dead. Hopefully there isn't major damage to the engine!
+
+
+
+
