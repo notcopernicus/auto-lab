@@ -33,6 +33,24 @@ cracked block). Once the leak is repaired the temperature of the vehicle can be 
 
 To check the temperature I will need to jumps start the vehicle again since I concluded that the battery was fully dead. Hopefully there isn't major damage to the engine!
 
+#### 08.12 – Research
+
+I hope that there wasn't too much damage made internally to the engine due to overheating and it's just a leaking problem. However, after researching it seems I will need a few materials for this repair.
+
+> New lower Radiator Hose
+> Some new clamps
+> Coolant
+> Tools (Screwdriver etc)
+
+Specifics vary, but these four things are most crucial. It doesn't seem like a job that is extremely hard and im loving the process of learning new things about my vehicle. For example. the purpose of a radiator in a vehicle is to dissapate coolant throughput it's fins to release heat and circulate cool air correctly. It sorta looks like an air filter as well lol.
+
+The total cost for this repair is pretty cheap let X represent the aggregate.
+X < 100$
+
+
+
+
+
 
 
 
