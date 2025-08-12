@@ -35,17 +35,22 @@ To check the temperature I will need to jumps start the vehicle again since I co
 
 #### 08.12 – Research
 
-I hope that there wasn't too much damage made internally to the engine due to overheating and it's just a leaking problem. However, after researching it seems I will need a few materials for this repair.
+I hope that there wasn't too much damage made internally to the engine due to overheating and it's just a leaking problem. However, after researching it seems I will need a few materials for this repair:
 
-> New lower Radiator Hose
-> Some new clamps
-> Coolant
-> Tools (Screwdriver etc)
+1. New lower Radiator Hose
+2. New clamps
+3. Coolant
+4. Tools (Screwdriver)
 
-Specifics vary, but these four things are most crucial. It doesn't seem like a job that is extremely hard and im loving the process of learning new things about my vehicle. For example. the purpose of a radiator in a vehicle is to dissapate coolant throughput it's fins to release heat and circulate cool air correctly. It sorta looks like an air filter as well lol.
+Specifics vary, but these four things are most crucial. It doesn't seem like a job that is extremely hard and im loving the process of learning new things about my vehicle. 
 
-The total cost for this repair is pretty cheap let X represent the aggregate.
-X < 100$
+For example, the purpose of a radiator in a vehicle is to dissapate coolant throughput it's fins to release heat and circulate cool air correctly. It sorta looks like an air filter as well lol.
+
+The total cost for this repair is pretty cheap accoridng to AutoZone, and I will attempt to gather them soon, let X represent the aggregate.
+
+
+> X < 100$
+
 
 
 
