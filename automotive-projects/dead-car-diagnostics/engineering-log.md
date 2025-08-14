@@ -51,6 +51,11 @@ The total cost for this repair is pretty cheap accoridng to AutoZone, and I will
 
 > X < 100$
 
+08.14 – More Research
+
+So AutoZone offers a wide array of services that make fixing vehicles cost efficient. I just learned that we may not need a new battery and I can simply just bring it to AutoZone to re-charge it. Today, I am planning to head there if I can and find out more information regarding borrowing a jack stand so I can work under the car. Additionally, she needs a wash because she's so dirty lol!
+
+
 
 
 
