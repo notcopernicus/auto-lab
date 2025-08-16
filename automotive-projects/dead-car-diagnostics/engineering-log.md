@@ -61,7 +61,15 @@ So I gave her a nice wash and her bright red color is popping again. I took out 
 
 I think those are the two main internal culprits that need fixing. Hopefully, god willing, there are no other issues inside of the engine that will prove to be fatal. It seems like an easy fix and if the mechanic believed that the car is fully gone he was lying or im just pretentious!
 
+**Major Update**
 
+I was able to fix the leak, however the resevoir absolutely ate up the 3.78L of coolant I put inside. The 2012 Ford Focus SE needs about 9L to fill up entirely so this confirms the assumption that we had been running the car for some time without filling it up completely.
+
+Moreover, the battery is completely dead. It was rained on for about 1 minute but I doubt that was the problem since it was dead before that. I brought it to charge at AutoZone and it wouldn't hold charge. Unfortunately, it cannot be replaced via warranty.
+
+**Next Steps** 
+
+I will need to find a budget friendly battery, buy some more liters of coolant and then test to see if after a new battery and more coolant will allow the engine to run. Hopefully, there isn't more sever damage to the engine!
 
 
 
