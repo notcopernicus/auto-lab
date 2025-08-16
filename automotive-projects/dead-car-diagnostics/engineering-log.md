@@ -51,9 +51,17 @@ The total cost for this repair is pretty cheap accoridng to AutoZone, and I will
 
 > X < 100$
 
-08.14 – More Research
+#### 08.14 – More Research
 
 So AutoZone offers a wide array of services that make fixing vehicles cost efficient. I just learned that we may not need a new battery and I can simply just bring it to AutoZone to re-charge it. Today, I am planning to head there if I can and find out more information regarding borrowing a jack stand so I can work under the car. Additionally, she needs a wash because she's so dirty lol!
+
+#### 08.16 — Extended 
+
+So I gave her a nice wash and her bright red color is popping again. I took out the air filter and the battery so I can have access to the leak in the clamp. The actualy hose is fine after testing it was just not secured properly with a clamp. So the vehicle will need a new clamp to tighten the lower radiator down. After replacing the clamp the car will need some coolant so it can transmute and regulate temperature. Additionally, the battery will need to be charged so that the car has electric power.
+
+I think those are the two main internal culprits that need fixing. Hopefully, god willing, there are no other issues inside of the engine that will prove to be fatal. It seems like an easy fix and if the mechanic believed that the car is fully gone he was lying or im just pretentious!
+
+
 
 
 
