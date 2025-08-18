@@ -71,6 +71,15 @@ Moreover, the battery is completely dead. It was rained on for about 1 minute bu
 
 I will need to find a budget friendly battery, buy some more liters of coolant and then test to see if after a new battery and more coolant will allow the engine to run. Hopefully, there isn't more sever damage to the engine!
 
+#### 08.18
+
+The car officially has sever engine damage preventing it from turning on. After replacing the battery and fixing the coolant leak the vehicle refused to turn on hinting at osme major underlying issues within the issues (eg blown hed gasket)
+This was a very fun project and hopefully when I return from college I can continue to use it as a learning process because just from these two repairs I have learned so much!
+
+
+
+
+
 
 
 
